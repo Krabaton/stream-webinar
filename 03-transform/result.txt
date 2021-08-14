@@ -1,0 +1,15 @@
+https://swapi.dev/api/people/1 = Luke Skywalker
+https://swapi.dev/api/people/2 = C-3PO
+https://swapi.dev/api/people/4 = Darth Vader
+https://swapi.dev/api/people/3 = R2-D2
+https://swapi.dev/api/people/5 = Leia Organa
+https://swapi.dev/api/people/6 = Owen Lars
+https://swapi.dev/api/people/8 = R5-D4
+https://swapi.dev/api/people/7 = Beru Whitesun lars
+https://swapi.dev/api/people/9 = Biggs Darklighter
+https://swapi.dev/api/people/10 = Obi-Wan Kenobi
+https://swapi.dev/api/people/11 = Anakin Skywalker
+https://swapi.dev/api/people/12 = Wilhuff Tarkin
+https://swapi.dev/api/people/13 = Chewbacca
+https://swapi.dev/api/people/14 = Han Solo
+https://swapi.dev/api/people/15 = Greedo

@@ -1,0 +1,24 @@
+{
+  "name": "streams-lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.1.7",
+    "es-main": "^1.0.2",
+    "express": "^4.17.1",
+    "from2-array": "0.0.4",
+    "mkdirp": "^1.0.4",
+    "node-fetch": "^2.6.1",
+    "split": "^1.0.1",
+    "through2": "^4.0.2",
+    "through2-concurrent": "^2.0.0"
+  }
+}
